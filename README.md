@@ -1,5 +1,5 @@
 # Robot_Arm_Interface
-Task 1: An interface for the robot arm's engines.
+Task 1: An interface for the robot arm's engines control panel. (All of the codes for this task are in the Robot Arm folder)
 
 A control panel interface is designed to control the engines of the robot's arm using CSS, HTML, JavaScript and PHP, as well as a database to store and fetch the data into/from using SQL.
 
